@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://redhat-scholars.github.io/rhosak-workshop/rhosak-workshop/main/01-getting-started.html</loc>
-<lastmod>2021-12-09T19:53:54.948Z</lastmod>
+<loc>https://redhat-scholars.github.io/managed-kafka-workshop/managed-kafka-workshop/main/01-getting-started.html</loc>
+<lastmod>2022-01-14T21:09:50.088Z</lastmod>
 </url>
 <url>
-<loc>https://redhat-scholars.github.io/rhosak-workshop/rhosak-workshop/main/02-using-kcat.html</loc>
-<lastmod>2021-12-09T19:53:54.948Z</lastmod>
+<loc>https://redhat-scholars.github.io/managed-kafka-workshop/managed-kafka-workshop/main/02-using-kcat.html</loc>
+<lastmod>2022-01-14T21:09:50.088Z</lastmod>
 </url>
 <url>
-<loc>https://redhat-scholars.github.io/rhosak-workshop/rhosak-workshop/main/03-connect-streams-apache-kafka.html</loc>
-<lastmod>2021-12-09T19:53:54.948Z</lastmod>
+<loc>https://redhat-scholars.github.io/managed-kafka-workshop/managed-kafka-workshop/main/03-connect-streams-apache-kafka.html</loc>
+<lastmod>2022-01-14T21:09:50.088Z</lastmod>
 </url>
 <url>
-<loc>https://redhat-scholars.github.io/rhosak-workshop/rhosak-workshop/main/04-bind-quarkus-application.html</loc>
-<lastmod>2021-12-09T19:53:54.948Z</lastmod>
+<loc>https://redhat-scholars.github.io/managed-kafka-workshop/managed-kafka-workshop/main/04-bind-quarkus-application.html</loc>
+<lastmod>2022-01-14T21:09:50.088Z</lastmod>
 </url>
 <url>
-<loc>https://redhat-scholars.github.io/rhosak-workshop/rhosak-workshop/main/index.html</loc>
-<lastmod>2021-12-09T19:53:54.948Z</lastmod>
+<loc>https://redhat-scholars.github.io/managed-kafka-workshop/managed-kafka-workshop/main/index.html</loc>
+<lastmod>2022-01-14T21:09:50.088Z</lastmod>
 </url>
 </urlset>
